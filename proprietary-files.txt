@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise, are
-## from realme X50 Pro 5G (RMX2076_11.F.10).
+## from realme X50 Pro 5G (RMX2076_11.F.12).
 
 # ACDB
 odm/etc/acdbdata/Bluetooth_cal.acdb
