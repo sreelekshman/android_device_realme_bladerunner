@@ -1,0 +1,5 @@
+device/realme/
+vendor/realme
+kernel/realme/
+hardware/oplus
+hardware/dolby
